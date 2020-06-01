@@ -38,8 +38,5 @@ https://agplayback03.aotg-video.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/JqFR0FS/goo.png",ASTRO GOSHOP (FREE)
 https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP_04.m3u8
 
-#EXTINF:-1 tvg-ID="" group-title="Kids" tvg-logo="https://i.ibb.co/JqFR0FS/goo.png",ASTRO GOSHOP (FREE)
-https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP_04.m3u8
-
 #EXTINF:-1 tvg-ID="" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png",CBeebies
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
